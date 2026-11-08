@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Conversation deletion",
+    "description": "Adds a Delete conversation action to every conversation menu and permanently removes that conversation's local history and sidebar entry."
+  }
+}
